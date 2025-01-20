@@ -1,4 +1,4 @@
 # First-Demo
-My first Repository
+This is my first Git Repository.
 <br>
 Author : Abdul Rehan
